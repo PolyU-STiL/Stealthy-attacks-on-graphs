@@ -1,6 +1,6 @@
 # Towards stealthy attacks on graphs
 
-## Paper collection on graphs
+## Paper collection on attacks
 
 
 | Year | Paper/Venue |Name| Target Model | Task|
